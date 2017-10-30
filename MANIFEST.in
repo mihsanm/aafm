@@ -3,3 +3,4 @@ include icon/*/*
 include icon/aafm.ico
 recursive-include src/
 recursive-include icon/*/*
+update MANIFEST.in
